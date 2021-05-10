@@ -2,6 +2,19 @@
 
 <h3 align="center">🎓About Me🎓</h3>
 <p align="center"> Hi, I'm Seunghun, currently serving in the military. I want to become an iOS developer.
+<p align="center">🔥<strong>Interests these days</strong>🔥</p>
+<p align="center">
+  <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white>
+  <img src=https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white>
+  <img src=https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white>
+  <br>
+  <img src=https://img.shields.io/badge/Tesla-CC0000?style=flat-square&logo=Tesla&logoColor=white>
+  <img src=https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white>
+  <img src=https://img.shields.io/badge/YouTubeMusic-FF0000?style=flat-square&logo=YouTube-Music&logoColor=white>
+  <img src=https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=Netflix&logoColor=white>
+</p>
+<br>
+
 <p align="center">💻<strong>Techs that I've used at least once</strong>💻</p> 
 <p align="center">
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
@@ -20,6 +33,8 @@
   <img src=https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white>
   <img src=https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white>
 </p>
+<br>
+
 <p align="center">📞<strong>Contact Me</strong>📞</p>
 <p align="center">
   <a href="mailto:18shshin@gmail.com"><img src=https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white></a>
