@@ -26,3 +26,4 @@
   <a href="https://www.linkedin.com/in/seunghun-shin-8842a8186"><img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white></a>
   <a href="https://www.instagram.com/softho0n"><img src=https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white></a>
   <a href="https://www.github.com/softho0n"><img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white></a>
+</p>
