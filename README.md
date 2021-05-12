@@ -13,8 +13,6 @@
   <img src=https://img.shields.io/badge/YouTubeMusic-FF0000?style=flat-square&logo=YouTube-Music&logoColor=white>
   <img src=https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=Netflix&logoColor=white>
 </p>
-<br>
-
 <p align="center">💻<strong>Techs that I've used at least once</strong>💻</p> 
 <p align="center">
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
@@ -33,12 +31,9 @@
   <img src=https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white>
   <img src=https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white>
 </p>
-<br>
-
 <p align="center">📞<strong>Contact Me</strong>📞</p>
 <p align="center">
   <a href="mailto:18shshin@gmail.com"><img src=https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white></a>
   <a href="https://www.linkedin.com/in/seunghun-shin-8842a8186"><img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white></a>
-  <a href="https://www.instagram.com/softho0n"><img src=https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white></a>
   <a href="https://www.github.com/softho0n"><img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white></a>
 </p>
