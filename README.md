@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=250&section=header&text=SeunghunShin&fontSize=100&animation=fadeIn)
 
 <h3 align="center">🎓 About Me 🎓</h3>
-<p align="center"> Hi, I'm Seunghun.
+<p align="center"> Hi, I'm Seunghun, Undergraduate research student at VLDB Lab, Sungkyunkwan University.
 <p align="center">🔥<strong> Interests these days </strong>🔥</p>
 <p align="center">
   <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white>
