@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=250&section=header&text=SeunghunShin&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&&customColorList=7&height=250&section=header&text=SeunghunShin&fontSize=100&animation=fadeIn)
 
 <h3 align="center">🎓 About Me 🎓</h3>
 <p align="center"> Hi, I'm Seunghun, Undergraduate research student at VLDB Lab, Sungkyunkwan University.
