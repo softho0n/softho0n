@@ -5,12 +5,14 @@
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
   <img src=https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white>
   <img src=https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white>
-  <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
   <br>
   <img src=https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white>
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white>
   <img src=https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white>
-  <img src=https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white>
+  <br>
+  <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
+  <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
+  <img src=https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white>
 </p>
 <p align="center">💻<strong> Techs that I've used at least once </strong>💻</p> 
 <p align="center">
