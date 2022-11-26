@@ -12,6 +12,7 @@
   <br>
   <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
   <img src=https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white>
+  <img src=https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white>
 </p>
 <p align="center">💻<strong> Techs that I've used at least once </strong>💻</p> 
 <p align="center">
