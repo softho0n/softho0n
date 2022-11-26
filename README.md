@@ -11,7 +11,6 @@
   <img src=https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white>
   <br>
   <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
-  <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
   <img src=https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white>
 </p>
 <p align="center">💻<strong> Techs that I've used at least once </strong>💻</p> 
