@@ -5,6 +5,7 @@
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
   <img src=https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white>
   <img src=https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white>
+  <img src=https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white>
   <br>
   <img src=https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white>
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white>
