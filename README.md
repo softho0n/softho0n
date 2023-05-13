@@ -1,5 +1,5 @@
 <h3 align="center">🎓 About Me 🎓</h3>
-<p align="center"> Hi, I'm Seunghun, MLOps Engineer at Pyler AI.
+<p align="center"> Hi, I'm Seunghun.
 <p align="center">🔥<strong> Interests these days </strong>🔥</p>
 <p align="center">
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
