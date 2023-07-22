@@ -5,15 +5,41 @@
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
   <img src=https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white>
   <img src=https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white>
-  <img src=https://img.shields.io/badge/GitActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white>
   <br>
   <img src=https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white>
   <img src=https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white>
+  <img src=https://img.shields.io/badge/GitActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white>
   <br>
+  <img src=https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white>
   <img src=https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white>
   <img src=https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white>
-  <img src=https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white>
 </p>
+
+<p align="center">🌩<strong> Technology stack used in GCP</strong> 🌩</p>
+<p align="center">
+  <img src=https://img.shields.io/badge/PubSub-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/CloudFunction-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/CloudSQL-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logoColor=white>
+  <br>
+  <img src=https://img.shields.io/badge/GKE-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/Composer-4285F4?style=flat-square&logoColor=white>
+  <img src=https://img.shields.io/badge/VertexAI-4285F4?style=flat-square&logoColor=white>
+</p>
+
+<p align="center">🅰️<strong> Technology stack used in AWS</strong> 🅰️</p>
+<p align="center">
+  <img src=https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white>
+  <img src=https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white>
+  <img src=https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white>
+  <img src=https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white>
+  <br>
+  <img src=https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white>
+  <img src=https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=AmazonCloudWatch&logoColor=white>
+  <img src=https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=AmazonSQS&logoColor=white>
+</p>
+
 <p align="center">💻<strong> Techs that I've used at least once </strong>💻</p> 
 <p align="center">
   <img src=https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white>
