@@ -1,5 +1,5 @@
 <h3 align="center">🎓 About Me 🎓</h3>
-<p align="center">안녕하세요 성균관대학교 소프트웨어학과 재학 중인 신승훈이라고 합니다.
+<p align="center">안녕하세요 Toss Bank에서 Server Developer 포지션으로 개발하고 있는 신승훈이라고 합니다.
 <p align="center">🔥<strong> Interests these days </strong>🔥</p>
 <p align="center">
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
