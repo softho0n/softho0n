@@ -1,5 +1,5 @@
 <h3 align="center">🎓 About Me 🎓</h3>
-<p align="center">안녕하세요. 개발자 신승훈이라고 합니다.
+<p align="center">안녕하세요. 신승훈 입니다.
 <p align="center">🔥<strong> Interests these days </strong>🔥</p>
 <p align="center">
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
