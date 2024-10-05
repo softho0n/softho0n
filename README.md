@@ -1,5 +1,3 @@
-<h3 align="center">🎓 About Me 🎓</h3>
-<p align="center">안녕하세요. 신승훈 입니다.
 <p align="center">🔥<strong> Interests these days </strong>🔥</p>
 <p align="center">
   <img src=https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white>
