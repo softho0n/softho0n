@@ -13,6 +13,7 @@
   <img src=https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white>
   <img src=https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white>
   <img src=https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white>
+  <img src=https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=GO&logoColor=white>
 </p>
 <p align="center">📞<strong> Contact Me </strong>📞</p>
 <p align="center">
